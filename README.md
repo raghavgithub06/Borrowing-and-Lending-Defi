@@ -1,4 +1,4 @@
-# Asset Borrowing and Lending Defi
+# Borrowing and Lending Defi
 
 ## Introduction
 This Asset Borrowing and Lending Defi Dapp operates on **Ethereum's Sepolia Testnet**. 
