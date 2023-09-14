@@ -46,16 +46,7 @@ This DeFi Lending & Borrowing decentralized application (DApp) operates on **Eth
 
 1. Clone this repo :
 
-```
-git clone https://github.com/raghavgithub06/Asset-Borrowing-and-Lending-Defi.git
-```
-
 2. Go to the root directory and install all node packages
-
-```
-cd Asset-Borrowing-and-Lending-Defi
-npm install
-```
 
 3. Please Create a new Infura API key
 
@@ -70,7 +61,3 @@ npm install
    
 
 6. Start NextJs Node Server
-
-```
-npm run dev
-```
