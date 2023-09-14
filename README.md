@@ -1,7 +1,7 @@
 # Asset Borrowing and Lending Defi
 
 ## Introduction
-This DeFi Lending & Borrowing decentralized application (DApp) operates on **Ethereum's Sepolia Testnet**. 
+This Asset Borrowing and Lending Defi Dapp operates on **Ethereum's Sepolia Testnet**. 
 
 ## Technology Stack
 
