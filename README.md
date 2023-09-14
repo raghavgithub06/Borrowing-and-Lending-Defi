@@ -3,7 +3,6 @@
 ## Introduction
 This DeFi Lending & Borrowing decentralized application (DApp) operates on **Ethereum's Sepolia Testnet**. 
 
-
 ## Technology Stack
 
 - Built on Ethereum Blockchain
@@ -61,3 +60,7 @@ This DeFi Lending & Borrowing decentralized application (DApp) operates on **Eth
    
 
 6. Start NextJs Node Server
+
+## License
+
+This project is licensed under the MIT License.
